@@ -62,7 +62,7 @@
         
  <section id="header" class="jumbotron text-center">
 
-        <h1 class="text-success">Connect. Explore. Discover.</h1>
+        <h1 class="text-success">Connect.. Explore.. Discover..</h1>
          <blockquote class="blockquote">
          
         <h4 class="text-warning">Who are you?</h4>
