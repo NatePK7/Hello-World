@@ -13,5 +13,7 @@
 </h3>
 
 <h1> Right now we are using Jenkins as build and deployment tool to tomcat server virtual machine </h1>
+<h2> Jenkins has limitations deploying more than one .war file to docker because of this </h2>
+<h1> we must use Ansible as the deployment platform and use Jenkins as a build platform</h1>
 
 <h2> made changes with pom.xml file and index.jsp</h2>
