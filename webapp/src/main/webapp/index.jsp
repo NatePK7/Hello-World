@@ -13,3 +13,5 @@
 </h3>
 
 <h1> Right now we are using Jenkins as build and deployment tool to tomcat server virtual machine </h1>
+
+<h2> made changes with pom.xml file and index.jsp</h2>
