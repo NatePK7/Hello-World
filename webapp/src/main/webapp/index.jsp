@@ -17,3 +17,7 @@
 <h1> we must use Ansible as the deployment platform and use Jenkins as a build platform</h1>
 
 <h2> made changes with pom.xml file and index.jsp</h2>
+
+<h3> more changes </h3>
+
+<h4> test to using ansible playbook on jenkins server </h4>
