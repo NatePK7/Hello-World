@@ -21,3 +21,6 @@
 <h3> more changes </h3>
 
 <h4> test to using ansible playbook on jenkins server </h4>
+<p> deploying on container </p>
+<p> docker container made from docker file  </p>
+<p> docker file created from docker image </p>
