@@ -1,36 +1,37 @@
-<h1>Test welcome to DevOps</h1>
-<h2> test to see if tomcat server updates</h2>
-<h3> another changes </h3>
-<h4> setting is on * * * * * </h4>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<h2> making these changes using Visual Studio code instead of vi editor</h2>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-<h3> git commands
-    <P> git commit -m "modified index.jsp"</P>
-    <p> git add . </p>
-    <p> git push origin master </p>
-    <p> git status </p>
-</h3>
+    <title>Dev Ops !</title>
+  </head>
+  
+  <body>
 
-<h1> Right now we are using Jenkins as build and deployment tool to tomcat server virtual machine </h1>
-<h2> Jenkins has limitations deploying more than one .war file to docker because of this </h2>
-<h1> we must use Ansible as the deployment platform and use Jenkins as a build platform</h1>
+        <div class="jumbotron">
+                <h1 class="display-4">Hello, world!</h1>
+                <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+                <hr class="my-4">
+                <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+                <h3> git commands </h3>
+                        <P> git commit -m "modified index.jsp"</P>
+                        <p> git add . </p>
+                        <p> git push origin master </p>
+                        <p> git status </p>
+                    
+                <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+              </div>
 
-<h2> made changes with pom.xml file and index.jsp</h2>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
 
-<h3> more changes </h3>
-
-<h4> test to using ansible playbook on jenkins server </h4>
-<p> deploying on container </p>
-<p> docker container made from docker file  </p>
-<p> docker file created from docker image </p>
-
-<p> test for clean commit and deploy on container using ansible using playbooks </p>
-
-<p> another test </p>
-
-<h1> I have now set up continuous deployed or git changes published to tomcat server </h1>
-
-
-<h2> test to deploy on container using ansible </h2>
-<p> deploying via ansible </p>
