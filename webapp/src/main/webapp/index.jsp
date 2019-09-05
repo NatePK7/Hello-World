@@ -30,3 +30,7 @@
 <p> another test </p>
 
 <h1> I have now set up continuous deployed or git changes published to tomcat server </h1>
+
+
+<h2> test to deploy on container using ansible </h2>
+<p> deploying via ansible </p>
