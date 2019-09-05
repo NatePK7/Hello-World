@@ -24,7 +24,7 @@
                         <p> git push origin master </p>
                         <p> git status </p>
                     
-                <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                <a class="btn btn-primary btn-lg" href="#" role="button">Learn how Hobie is the best!</a>
               </div>
 
     <!-- Optional JavaScript -->
