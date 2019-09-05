@@ -24,3 +24,5 @@
 <p> deploying on container </p>
 <p> docker container made from docker file  </p>
 <p> docker file created from docker image </p>
+
+<p> test for clean commit and deploy on container using ansible using playbooks </p>
