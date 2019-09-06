@@ -23,6 +23,7 @@
                 <p> Hobie is the best!! </p>
                 <p> code changes </p>
                 <p> more filler text </p>
+                <p> commit with visual studio code instead of vi editor on jenkins server</p>
                 <h3> git commands </h3>
                         <P> git commit -m "modified index.jsp"</P>
                         <p> git add . </p>
