@@ -20,6 +20,7 @@
                 <p> Coding requires attention to detail and templates to minimize errors. 
                   This code is showing up on ansible server http://18.191.54.123:8080/webapp/
                 </p>
+                <p> Hobie is the best!! </p>
                 <h3> git commands </h3>
                         <P> git commit -m "modified index.jsp"</P>
                         <p> git add . </p>
