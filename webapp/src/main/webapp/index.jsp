@@ -17,7 +17,7 @@
                 <h1 class="display-4">Hello, world!</h1>
                 <p class="lead">Master DevOps.</p>
                 <hr class="my-4">
-                <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+                <p> Coding requires attention to detail and templates to minimize errors.</p>
                 <h3> git commands </h3>
                         <P> git commit -m "modified index.jsp"</P>
                         <p> git add . </p>
