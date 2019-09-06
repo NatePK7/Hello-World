@@ -21,8 +21,7 @@
                   This code is showing up on ansible server http://18.191.54.123:8080/webapp/
                 </p>
                 <p> Hobie is the best!! </p>
-                <p> code changes more changes for everyone </p>
-                <p> more filler text </p>
+                
                 <p> commit with visual studio code instead of vi editor on jenkins server</p>
                 <h3> git commands </h3>
                         <P> git commit -m "modified index.jsp"</P>
@@ -31,6 +30,19 @@
                         <p> git status </p>
                     
                 <a class="btn btn-primary btn-lg" href="#" role="button">Learn how Hobie is the best!</a>
+              </div>
+
+              <div class="jumbotron">
+                <h1 class="display-4"> DevOps is awesome! </h1>
+                <p class="lead">Master DevOps.</p>
+                <hr class="my-4">
+                <p> Coding requires attention to detail and templates to minimize errors. 
+                  This code is showing up on ansible server http://18.191.54.123:8080/webapp/
+                </p>
+                <p> Hobie is the best!! </p>
+          
+                    
+                <a class="btn btn-primary btn-lg" href="#" role="button">Go fishing with Hobie!</a>
               </div>
 
     <!-- Optional JavaScript -->
