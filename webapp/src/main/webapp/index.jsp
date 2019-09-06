@@ -14,7 +14,7 @@
   <body>
 
         <div class="jumbotron">
-                <h1 class="display-4">Hello, world!</h1>
+                <h1 class="display-4"> DevOps is awesome! </h1>
                 <p class="lead">Master DevOps.</p>
                 <hr class="my-4">
                 <p> Coding requires attention to detail and templates to minimize errors. 
