@@ -22,6 +22,10 @@
                 </p>
                 <p> Hobie is the best!! </p>
                 <p> fish for coho </p>
+                <p> Kings </p>
+                <p> coho </p>
+                <p> sockeye </p>
+                <p> chum or pinks </p>
                 
                 <p> commit with visual studio code instead of vi editor on jenkins server</p>
                 <h3> git commands </h3>
